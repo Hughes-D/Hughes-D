@@ -17,7 +17,10 @@ Current Projects:
  <img width="1000" alt="Shopping Cart" src="https://user-images.githubusercontent.com/76405547/150825539-bcce0022-4aef-4165-8432-0e10b9e295b5.jpeg">
 
    
- 
+ Midi Piano:
+  I played piano for a few years as a kid. This isn't as fun, but it works!
+  
+<img width="1000" alt="Midi Piano" src="https://user-images.githubusercontent.com/76405547/150827220-cd4e0421-86fc-438a-a82b-d9515dc4f356.jpeg">
 
 
   The Weather App: 
