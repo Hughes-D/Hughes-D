@@ -10,6 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Current Projects: 
+  Cooking With React:
+    Created a recipe book app using React.
+<img width="1000" alt="Cooking with React" src="https://user-images.githubusercontent.com/76405547/151849871-26312c9b-74f6-464c-a277-765835153e4f.jpeg">
 
   Shopping Cart: 
     Simple Node.js store app.
