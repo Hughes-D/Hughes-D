@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 Current Projects: 
   Cooking With React:
     Created a recipe book app using React.
-<img width="1000" alt="Cooking with React" src="https://user-images.githubusercontent.com/76405547/151849871-26312c9b-74f6-464c-a277-765835153e4f.jpeg">
+<img width="1000" alt= "7240158F-F030-4684-B29F-30015008887B_1_105_c" src="https://user-images.githubusercontent.com/76405547/151850558-035361fa-b9bd-4fef-a3e0-cf1840e95103.jpeg">
 
   Shopping Cart: 
     Simple Node.js store app.
