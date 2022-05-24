@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # Recent Projects
 
-## Cooking With React
+## Recipes With React
 
 
 Created a recipe book app using React. This is the project I used to learn about the basic React syntax, functional components, and JSX. Check back soon as I add search functions and update the UI
